@@ -1,3 +1,6 @@
+docker run -d -p 8082:8081 --name webapp_container my-web-app:1.0
+
+
 Activities 
 
 1. Setting Up Docker 
